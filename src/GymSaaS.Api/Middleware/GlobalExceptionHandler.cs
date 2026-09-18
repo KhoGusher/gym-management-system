@@ -36,6 +36,8 @@ public class GlobalExceptionHandler : IExceptionHandler
 
         if (errors is not null)
             problemDetails.Extensions["errors"] = errors;
+            problemDetails.Extensions["success"] = false;
+
 
         httpContext.Response.StatusCode = statusCode;
         await httpContext.Response.WriteAsJsonAsync(problemDetails, cancellationToken);

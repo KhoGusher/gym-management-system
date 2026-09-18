@@ -3,7 +3,9 @@ using GymSaaS.Application.Auth.Commands.Login;
 using GymSaaS.Application.Auth.Commands.Register;
 using GymSaaS.Application.Auth.Commands.RefreshToken;
 using GymSaaS.Application.Common.Mediator;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.RateLimiting;
 
 
 namespace GymSaaS.Api.Controllers;
@@ -22,6 +24,7 @@ public class AuthController : ControllerBase
         => Ok(await _mediator.Send(command, ct));
 
     [HttpPost("login")]
+    [EnableRateLimiting("login")]
     public async Task<ActionResult<AuthResponseDto>> Login([FromBody] LoginCommand command, CancellationToken ct)
         => Ok(await _mediator.Send(command, ct));
 
