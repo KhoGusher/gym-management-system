@@ -1,0 +1,15 @@
+C:\Dev\GymSaaS\src\GymSaaS.Application\bin\Debug\net10.0\GymSaaS.Application.deps.json
+C:\Dev\GymSaaS\src\GymSaaS.Application\bin\Debug\net10.0\GymSaaS.Application.dll
+C:\Dev\GymSaaS\src\GymSaaS.Application\bin\Debug\net10.0\GymSaaS.Application.pdb
+C:\Dev\GymSaaS\src\GymSaaS.Application\bin\Debug\net10.0\GymSaaS.Domain.dll
+C:\Dev\GymSaaS\src\GymSaaS.Application\bin\Debug\net10.0\GymSaaS.Domain.pdb
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\GymSaaS.Application.csproj.AssemblyReference.cache
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\GymSaaS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\GymSaaS.Application.AssemblyInfoInputs.cache
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\GymSaaS.Application.AssemblyInfo.cs
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\GymSaaS.Application.csproj.CoreCompileInputs.cache
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\GymSaaS..EA0103B6.Up2Date
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\GymSaaS.Application.dll
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\refint\GymSaaS.Application.dll
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\GymSaaS.Application.pdb
+C:\Dev\GymSaaS\src\GymSaaS.Application\obj\Debug\net10.0\ref\GymSaaS.Application.dll

@@ -1,0 +1,11 @@
+C:\Dev\GymSaaS\src\GymSaaS.Domain\bin\Debug\net10.0\GymSaaS.Domain.deps.json
+C:\Dev\GymSaaS\src\GymSaaS.Domain\bin\Debug\net10.0\GymSaaS.Domain.dll
+C:\Dev\GymSaaS\src\GymSaaS.Domain\bin\Debug\net10.0\GymSaaS.Domain.pdb
+C:\Dev\GymSaaS\src\GymSaaS.Domain\obj\Debug\net10.0\GymSaaS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\GymSaaS\src\GymSaaS.Domain\obj\Debug\net10.0\GymSaaS.Domain.AssemblyInfoInputs.cache
+C:\Dev\GymSaaS\src\GymSaaS.Domain\obj\Debug\net10.0\GymSaaS.Domain.AssemblyInfo.cs
+C:\Dev\GymSaaS\src\GymSaaS.Domain\obj\Debug\net10.0\GymSaaS.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\GymSaaS\src\GymSaaS.Domain\obj\Debug\net10.0\GymSaaS.Domain.dll
+C:\Dev\GymSaaS\src\GymSaaS.Domain\obj\Debug\net10.0\refint\GymSaaS.Domain.dll
+C:\Dev\GymSaaS\src\GymSaaS.Domain\obj\Debug\net10.0\GymSaaS.Domain.pdb
+C:\Dev\GymSaaS\src\GymSaaS.Domain\obj\Debug\net10.0\ref\GymSaaS.Domain.dll
